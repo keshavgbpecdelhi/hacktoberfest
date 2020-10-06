@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Keshav](https://github.com/keshavgbpecdelhi)
+- Place:Delhi, India
+- Bio: Web Developer, [Youtuber](https://www.youtube.com/channel/UCmcq3sQAsw8SCHSjuzkYkfw), Boring Video Editor(https://www.youtube.com/channel/UCqLrY1G5HQnCxEpmdwaTauw), SEO Specialist and blog writter.
+- GitHub: [keshavgbpecdelhi](https://github.com/keshavgbpecdelhi)
